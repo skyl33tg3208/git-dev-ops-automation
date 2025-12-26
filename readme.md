@@ -1,6 +1,3 @@
-# Use echo instead of nano
-echo '# Git DevOps Automation Practice
-
 ## Overview
 This repository contains hands-on practice with Git and version control.
 
